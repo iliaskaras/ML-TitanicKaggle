@@ -1,0 +1,7 @@
+ =================================================================================
+ ================================== Naive Bayes ==================================
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.805145797599
+ Average Precision score of the 5 training sets : 0.779064327485
+ Average Recall score of the 5 training sets : 0.645263157895
+ Average F1 score of the 5 training sets : 0.697893986652

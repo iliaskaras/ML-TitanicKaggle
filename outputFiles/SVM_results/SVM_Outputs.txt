@@ -1,0 +1,106 @@
+ =================================================================================
+ SVM_results with Kernel : linear, Penalty : 100
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.786516853933
+ Average Precision score of the 5 training sets : 0.731669246646
+ Average Recall score of the 5 training sets : 0.604736842105
+ Average F1 score of the 5 training sets : 0.65833749459
+
+
+ =================================================================================
+ SVM_results with Kernel : linear, Penalty : 20
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.790262172285
+ Average Precision score of the 5 training sets : 0.731669246646
+ Average Recall score of the 5 training sets : 0.604736842105
+ Average F1 score of the 5 training sets : 0.65833749459
+
+
+ =================================================================================
+ SVM_results with Kernel : linear, Penalty : 0.01
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.782771535581
+ Average Precision score of the 5 training sets : 0.840166500167
+ Average Recall score of the 5 training sets : 0.563157894737
+ Average F1 score of the 5 training sets : 0.671729055258
+
+
+ =================================================================================
+ SVM_results with Kernel : poly, Penalty : 100
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.767790262172
+ Average Precision score of the 5 training sets : 0.70130614999
+ Average Recall score of the 5 training sets : 0.604736842105
+ Average F1 score of the 5 training sets : 0.643565900044
+
+
+ =================================================================================
+ SVM_results with Kernel : poly, Penalty : 20
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.797752808989
+ Average Precision score of the 5 training sets : 0.772368421053
+ Average Recall score of the 5 training sets : 0.615263157895
+ Average F1 score of the 5 training sets : 0.677875333495
+
+
+ =================================================================================
+ SVM_results with Kernel : poly, Penalty : 1
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.76404494382
+ Average Precision score of the 5 training sets : 0.826885369532
+ Average Recall score of the 5 training sets : 0.522631578947
+ Average F1 score of the 5 training sets : 0.630448028674
+
+
+ =================================================================================
+ SVM_results with Kernel : rbf, Penalty : 100
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.790262172285
+ Average Precision score of the 5 training sets : 0.757907239819
+ Average Recall score of the 5 training sets : 0.678421052632
+ Average F1 score of the 5 training sets : 0.71032967033
+
+
+ =================================================================================
+ SVM_results with Kernel : rbf, Penalty : 20
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.812734082397
+ Average Precision score of the 5 training sets : 0.760702223473
+ Average Recall score of the 5 training sets : 0.718947368421
+ Average F1 score of the 5 training sets : 0.73621452004
+
+
+ =================================================================================
+ SVM_results with Kernel : rbf, Penalty : 1
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.797752808989
+ Average Precision score of the 5 training sets : 0.810485347985
+ Average Recall score of the 5 training sets : 0.594736842105
+ Average F1 score of the 5 training sets : 0.677779045279
+
+
+ =================================================================================
+ SVM_results with Kernel : sigmoid, Penalty : 100
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.719101123596
+ Average Precision score of the 5 training sets : 0.633816895179
+ Average Recall score of the 5 training sets : 0.645789473684
+ Average F1 score of the 5 training sets : 0.638888888889
+
+
+ =================================================================================
+ SVM_results with Kernel : sigmoid, Penalty : 20
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.722846441948
+ Average Precision score of the 5 training sets : 0.628896103896
+ Average Recall score of the 5 training sets : 0.635263157895
+ Average F1 score of the 5 training sets : 0.629523809524
+
+
+ =================================================================================
+ SVM_results with Kernel : sigmoid, Penalty : 1
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.771535580524
+ Average Precision score of the 5 training sets : 0.72206022409
+ Average Recall score of the 5 training sets : 0.657368421053
+ Average F1 score of the 5 training sets : 0.680213903743

@@ -1,0 +1,16 @@
+ =================================================================================
+ Neural Networks with Hidden Layers if size : (30,10) , Activation function : relu, Learning Rate : adaptive 
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.719918699187
+ Average Precision score of the 5 training sets : 0.709308754422
+ Average Recall score of the 5 training sets : 0.680836707152
+ Average F1 score of the 5 training sets : 0.690022918258
+
+
+ =================================================================================
+ Neural Networks with Hidden Layers if size : (100,10) , Activation function : relu, Learning Rate : adaptive 
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.772948938612
+ Average Precision score of the 5 training sets : 0.750223938873
+ Average Recall score of the 5 training sets : 0.728067226891
+ Average F1 score of the 5 training sets : 0.730107066311

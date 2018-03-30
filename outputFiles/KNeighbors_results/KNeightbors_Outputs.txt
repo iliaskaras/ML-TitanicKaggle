@@ -1,0 +1,167 @@
+ =================================================================================
+ KNeighbors with n_neighbors : 5, Metric : manhattan, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.764322469983
+ Average Precision score of the 5 training sets : 0.667878787879
+ Average Recall score of the 5 training sets : 0.689473684211
+ Average F1 score of the 5 training sets : 0.673434994025
+=================================================================================
+ KNeighbors with n_neighbors : 15, Metric : manhattan, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.775368782161
+ Average Precision score of the 5 training sets : 0.693666666667
+ Average Recall score of the 5 training sets : 0.688947368421
+ Average F1 score of the 5 training sets : 0.685221445221
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 40, Metric : manhattan, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.78332761578
+ Average Precision score of the 5 training sets : 0.711150895141
+ Average Recall score of the 5 training sets : 0.678947368421
+ Average F1 score of the 5 training sets : 0.690769230769
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 5, Metric : minkowski, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.771595197256
+ Average Precision score of the 5 training sets : 0.683944644219
+ Average Recall score of the 5 training sets : 0.688947368421
+ Average F1 score of the 5 training sets : 0.682205513784
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 10, Metric : minkowski, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.790463121784
+ Average Precision score of the 5 training sets : 0.714126984127
+ Average Recall score of the 5 training sets : 0.71
+ Average F1 score of the 5 training sets : 0.707027924935
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 15, Metric : minkowski, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.779416809605
+ Average Precision score of the 5 training sets : 0.686388990379
+ Average Recall score of the 5 training sets : 0.71
+ Average F1 score of the 5 training sets : 0.695571725572
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 40, Metric : minkowski, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.779691252144
+ Average Precision score of the 5 training sets : 0.706901444788
+ Average Recall score of the 5 training sets : 0.657894736842
+ Average F1 score of the 5 training sets : 0.679386303597
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 5, Metric : euclidean, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.771595197256
+ Average Precision score of the 5 training sets : 0.683944644219
+ Average Recall score of the 5 training sets : 0.688947368421
+ Average F1 score of the 5 training sets : 0.682205513784
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 10, Metric : euclidean, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.790463121784
+ Average Precision score of the 5 training sets : 0.714126984127
+ Average Recall score of the 5 training sets : 0.71
+ Average F1 score of the 5 training sets : 0.707027924935
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 15, Metric : euclidean, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.779416809605
+ Average Precision score of the 5 training sets : 0.686388990379
+ Average Recall score of the 5 training sets : 0.71
+ Average F1 score of the 5 training sets : 0.695571725572
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 40, Metric : euclidean, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.779691252144
+ Average Precision score of the 5 training sets : 0.706901444788
+ Average Recall score of the 5 training sets : 0.657894736842
+ Average F1 score of the 5 training sets : 0.679386303597
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 5, Metric : chebyshev, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.749502572899
+ Average Precision score of the 5 training sets : 0.650807496149
+ Average Recall score of the 5 training sets : 0.657894736842
+ Average F1 score of the 5 training sets : 0.652321031268
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 10, Metric : chebyshev, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.760686106346
+ Average Precision score of the 5 training sets : 0.667543859649
+ Average Recall score of the 5 training sets : 0.678421052632
+ Average F1 score of the 5 training sets : 0.67077309868
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 15, Metric : chebyshev, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.805420240137
+ Average Precision score of the 5 training sets : 0.726885329265
+ Average Recall score of the 5 training sets : 0.750526315789
+ Average F1 score of the 5 training sets : 0.737264470949
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 40, Metric : chebyshev, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.771869639794
+ Average Precision score of the 5 training sets : 0.704946524064
+ Average Recall score of the 5 training sets : 0.646842105263
+ Average F1 score of the 5 training sets : 0.672414853878
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 150, Metric : manhattan, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.753138936535
+ Average Precision score of the 5 training sets : 0.755454545455
+ Average Recall score of the 5 training sets : 0.459473684211
+ Average F1 score of the 5 training sets : 0.566568144499
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 150, Metric : minkowski, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.700583190395
+ Average Precision score of the 5 training sets : 0.688311688312
+ Average Recall score of the 5 training sets : 0.302631578947
+ Average F1 score of the 5 training sets : 0.417981277981
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 150, Metric : euclidean, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.700583190395
+ Average Precision score of the 5 training sets : 0.688311688312
+ Average Recall score of the 5 training sets : 0.302631578947
+ Average F1 score of the 5 training sets : 0.417981277981
+
+
+ =================================================================================
+ KNeighbors with n_neighbors : 150, Metric : chebyshev, Algorithm: auto, Weight : distance
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.666758147513
+ Average Precision score of the 5 training sets : 0.594891774892
+ Average Recall score of the 5 training sets : 0.218947368421
+ Average F1 score of the 5 training sets : 0.314592592593

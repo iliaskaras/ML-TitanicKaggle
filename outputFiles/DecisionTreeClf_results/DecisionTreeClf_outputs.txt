@@ -1,0 +1,88 @@
+ =================================================================================
+ DecisionTreeClf with Split Function : gini, Max Depth : 50
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.805243445693
+ Average Precision score of the 5 training sets : 0.719471500722
+ Average Recall score of the 5 training sets : 0.75
+ Average F1 score of the 5 training sets : 0.734172885572
+
+
+ =================================================================================
+ DecisionTreeClf with Split Function : entropy, Max Depth : 50
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.790262172285
+ Average Precision score of the 5 training sets : 0.703243021346
+ Average Recall score of the 5 training sets : 0.75
+ Average F1 score of the 5 training sets : 0.722632284842
+
+
+ =================================================================================
+ DecisionTreeClf with Split Function : gini, Max Depth : 20
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.805243445693
+ Average Precision score of the 5 training sets : 0.719471500722
+ Average Recall score of the 5 training sets : 0.75
+ Average F1 score of the 5 training sets : 0.734172885572
+
+
+ =================================================================================
+ DecisionTreeClf with Split Function : entropy, Max Depth : 20
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.790262172285
+ Average Precision score of the 5 training sets : 0.703243021346
+ Average Recall score of the 5 training sets : 0.75
+ Average F1 score of the 5 training sets : 0.722632284842
+
+
+ =================================================================================
+ DecisionTreeClf with Split Function : gini, Max Depth : 10
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.801498127341
+ Average Precision score of the 5 training sets : 0.712857744108
+ Average Recall score of the 5 training sets : 0.75
+ Average F1 score of the 5 training sets : 0.730514705882
+
+
+ =================================================================================
+ DecisionTreeClf with Split Function : entropy, Max Depth : 10
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.797752808989
+ Average Precision score of the 5 training sets : 0.706349206349
+ Average Recall score of the 5 training sets : 0.78125
+ Average F1 score of the 5 training sets : 0.738345556182
+
+
+ =================================================================================
+ DecisionTreeClf with Split Function : gini, Max Depth : 5
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.816479400749
+ Average Precision score of the 5 training sets : 0.752840909091
+ Average Recall score of the 5 training sets : 0.729166666667
+ Average F1 score of the 5 training sets : 0.739903846154
+
+
+ =================================================================================
+ DecisionTreeClf with Split Function : entropy, Max Depth : 5
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.820224719101
+ Average Precision score of the 5 training sets : 0.760076252723
+ Average Recall score of the 5 training sets : 0.739583333333
+ Average F1 score of the 5 training sets : 0.744015788133
+
+
+ =================================================================================
+ DecisionTreeClf with Split Function : gini, Max Depth : 2
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.797752808989
+ Average Precision score of the 5 training sets : 0.961873638344
+ Average Recall score of the 5 training sets : 0.458333333333
+ Average F1 score of the 5 training sets : 0.614896377156
+
+
+ =================================================================================
+ DecisionTreeClf with Split Function : entropy, Max Depth : 2
+ =================================================================================
+ Average Accuracy score of the 5 training sets : 0.797752808989
+ Average Precision score of the 5 training sets : 0.961873638344
+ Average Recall score of the 5 training sets : 0.458333333333
+ Average F1 score of the 5 training sets : 0.614896377156
